@@ -30,3 +30,5 @@ https://cli.github.com/manual/gh
 
 # Reference MicroSoft Docs
 https://docs.microsoft.com/en-us/cli/azure/manage-azure-subscriptions-azure-cli
+
+# CLIvs Powershell
