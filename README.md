@@ -27,9 +27,15 @@ https://cli.github.com/manual/gh
 - Azure Management Group
 
     `az account management-group list`
+  
+- Resources list
+
+    `az resource list` - Azure CLI
+    `Get-AzureRmResource` - Powershell
 
 # Reference MicroSoft Docs
 https://docs.microsoft.com/en-us/cli/azure/manage-azure-subscriptions-azure-cli
+https://docs.microsoft.com/en-us/powershell/azure/?view=azps-7.1.0
 
 # CLIvs Powershell
 ![image](https://user-images.githubusercontent.com/98414596/151584471-2edffb80-4314-4840-a42d-e146bd4f9688.png)
