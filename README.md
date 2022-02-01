@@ -1,4 +1,4 @@
-![RepoViews](https://komarev.com/ghpvc/?username=SurendraReddyWesco&color=green)
+![](https://komarev.com/ghpvc/?username=SurendraReddyWesco&color=green&label=Repo+Visitors)
 
 # GitHub Cli Commands Link
 https://cli.github.com/manual/gh
