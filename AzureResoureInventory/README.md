@@ -229,8 +229,6 @@ To install Azure CLI go to [Microsoft Docs](https://docs.microsoft.com/en-us/cli
 
 By default Azure Resource Inventory will call to install both ImportExcel module and resource-graph extension but you need to have the right privileges during the script execution. 
 
-Special Thanks for __Doug Finke__, the Author of Powershell [ImportExcel](https://github.com/dfinke/ImportExcel) Module.    
-
 <br/>
 
 <br/>
