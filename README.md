@@ -1,5 +1,4 @@
-# AzureCLICommands
-AzureCLICommands
+![RepoViews](https://komarev.com/ghpvc/?username=SurendraReddyWesco&color=green)
 
 # GitHub Cli Commands Link
 https://cli.github.com/manual/gh
