@@ -5,14 +5,6 @@ Platform: Windows / Linux / Mac
 Tags: Powershell, Azure, Inventory, Excel Report, Customer Engineer
 ---
 
-![GitHub](https://img.shields.io/github/license/azureinventory/ARI) ![GitHub repo size](https://img.shields.io/github/repo-size/azureinventory/ARI) [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/azureinventory/ARI)
-![GitHub top language](https://img.shields.io/github/languages/top/azureinventory/ARI)
-
-<br/>
-
-
 |     Modules     |     Count     |
 |-----------------|---------------|
 | Compute | ![Compute](https://shields-staging.herokuapp.com:/github/directory-file-count/azureinventory/ari/Modules/Compute)|
