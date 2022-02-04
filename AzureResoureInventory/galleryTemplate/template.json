@@ -48,7 +48,7 @@
     {
       "type": 1,
       "content": {
-        "json": "## Azure Inventory Workbook\r\n### Change Log\r\nUse this report to analyze the the sizes of the different tables and Latency in your workspace and agents.  This report checks the overall workspace health.\r\n\r\n|Version|Description|\r\n|---|---|\r\n|v1.1.1| Initial Release - October 2020 - BY\r\n|v1.1.2| Add Filter to Workbooks and Alerting Resources tab - October 2020 \r\n|v1.1.3| Add NSG Traffic Analytics - October 2020\r\n|v1.1.4 | Fix orphaned nics query - November 2020\r\n|v1.1.5 | Fix sub with no network watcher - December 2020\r\n|v1.1.6 | Add VM Creation Date \r\n|v2.0 | Added Show Help and Change Log. For Overview: translated many additional Azure resource types. For Compute: Added VM Scale Sets, Added VM Overview tab with SQL and Availability set extensions. For PaaS: Added new Containers tab that has AKS and ACR resources, Added Windows Virtual Desktop (WVD) tab, Added Machine Learning & Artificial Intellgence tab, Added IoT tab. For Data: Added SQL Managed Instance, SQL Virtual Clusters, Synapse, ADX Clusters, Analysis Services, Data Factories. March 2021 - BY\r\n|v2.0.1 | Add Lab Accounts, AD Domain Services, Automanage Accounts and fixed WVD Details - March 2021 - BY\r\n\r\n### Contirbute https://github.com/scautomation/Azure-Inventory-Workbook\r\n\r\n \r\n\r\n\r\n\r\n"
+        "json": "## Azure Inventory Workbook"
       },
       "conditionalVisibility": {
         "parameterName": "Help",
@@ -60,7 +60,7 @@
     {
       "type": 1,
       "content": {
-        "json": "## Help File - Azure Service Names\r\nOver time Azure services have been named and renamed, a best effort has been made to translate resource provider names to their current names. Example: microsoft.operationalinsights/workspaces is currently called Log Analytics workspaces.\r\n\r\nQueries are using a combination of case() and iif() to do the translation. Resources not translated are appended with \"Not Translated: microsoft/providername\" these are then hidden from the resulting views in the query.\r\n\r\n\r\n\r\n## Missing Resources\r\n\t- This workbook relies on Azure Resource Graph. You need reader access to all resources you wish to see in this workbook.\r\n\r\n\t- comment out \"| where type !has \"Not Translated\" \" from the query to see if your particular resource shows up.\r\n\r\n\r\n\r\n### Found an issue or something not working right? Open an issue https://github.com/scautomation/Azure-Inventory-Workbook/issues\r\n"
+        "json": "## Help File - Azure Service Names"
       },
       "conditionalVisibility": {
         "parameterName": "Help",
