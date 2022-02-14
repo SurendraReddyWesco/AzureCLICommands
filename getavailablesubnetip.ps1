@@ -1,6 +1,8 @@
 # Set the Subscriptio id
 Set-AzContext -SubscriptionId "WESCO Production"
 
+# Provide the Name and ResourceGroupName
+# Eg:- rg-PROD-t2tmigration-vnet
 # Name - Named of the Vnet
 # Resource Group Name
 $nic = Get-AzureRmVirtualNetwork -Name "vnet-prod-shared-01" -ResourceGroupName "rg-prod-network"
