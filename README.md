@@ -1,4 +1,11 @@
-![](https://komarev.com/ghpvc/?username=SurendraReddyWesco&color=green&label=Repo+Visitors)
+[![RepoVisits](https://badges.pufler.dev/visits/SurendraReddyWesco/AzureWork)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/SurendraReddyWesco/AzureWork)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/SurendraReddyWesco/AzureWork)](https://badges.pufler.dev)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/SurendraReddyWesco/AzureWork?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/SurendraReddyWesco/AzureWork?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/SurendraReddyWesco/AzureWork?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/SurendraReddyWesco/AzureWork?color=red&style=plastic)
 
 # GitHub Cli Commands Link
 https://cli.github.com/manual/gh
